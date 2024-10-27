@@ -9,7 +9,7 @@
 
 ## Slides
 
-Link to [slides]() 
+Link to [slides](https://github.com/savitharaghunathan/101-kubernetes/blob/main/Introduction%20to%20Kubernetes!.pdf) 
 
 ## Demo Guide
 
